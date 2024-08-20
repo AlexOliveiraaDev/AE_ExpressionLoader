@@ -17,7 +17,7 @@ Expression Loader is an After Effects addon designed to simplify the application
 1. **Download**: Clone or download the repository to your local machine.
 2. **Add to After Effects**:
    - Move the `ExpressionLoader.jsx` file to your After Effects `Scripts` folder:
-     - On Windows: `C:\Program Files\Adobe\Adobe After Effects <version>\Support Files\Scripts`
+     - On Windows: `C:\Program Files\Adobe\Adobe After Effects <version>\Support Files\Scripts\ScriptUI Panels`
      - On macOS: `/Applications/Adobe After Effects <version>/Scripts`
    - Restart After Effects if it was running.
 
