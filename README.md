@@ -69,7 +69,7 @@ Feel free to report issues or suggest features by opening an issue in the GitHub
 
 ## License
 
-Expression Loader is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of this license.
+Expression Loader is licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and distribute it as per the terms of this license.
 
 ## Contact
 
