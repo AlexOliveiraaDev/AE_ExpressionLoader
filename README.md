@@ -1,5 +1,6 @@
 # Expression Loader for After Effects
 
+![print.png](https://i.postimg.cc/W4BF05TF/print.png)
 ## Overview
 
 Expression Loader is an After Effects addon designed to simplify the application of expressions by creating a centralized library of reusable expressions. This tool enhances your workflow by allowing you to easily manage and apply expressions directly within After Effects.
