@@ -1,7 +1,7 @@
 (function (thisObj) {
     // Initial Configuration
     var scriptName = "AE_ExpressionLoader";
-    var settingKey = "expressionFolder";
+    var settingKey = "ae_expressionFolder";
     var folderPath = "";
 
     // Function to load the saved path
@@ -38,6 +38,7 @@
     }
 
     function expressionPanel(thisObj) {
+	loadFolderPath();
         var win = (thisObj instanceof Panel) ? thisObj : new Window('palette', 'Expression Loader', undefined);
         win.spacing = 6;
 
